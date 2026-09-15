@@ -2,6 +2,13 @@
 Python-разработчик. Пишу ботов, небольшие приложения и тренажёры.
 Использую GitHub как хранилище проектов и учебных работ.
 
+## 🛠 Стек
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Tkinter](https://img.shields.io/badge/-Tkinter-FF6F00?style=flat&logo=python&logoColor=white)
+![Telegram](https://img.shields.io/badge/-Telegram%20Bot-26A5E4?style=flat&logo=telegram&logoColor=white)
+
 ## 📌 Проекты
 
 ### 🗂 Apache-Log-Aggregator
