@@ -41,8 +41,3 @@ Telegram-бот, который по слову находит статью в �
 
 → [Открыть репозиторий](https://github.com/Onimbus/viki_bot)
 
-## 📊 Статистика
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Onimbus&show_icons=true&hide_title=true&hide=contribs)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Onimbus&layout=compact)
